@@ -1,0 +1,321 @@
+2024.09.03 09:21:37 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\PC\Desktop\git\socrative\talleres-pfc-template' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6975a81f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@39d23654]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6975a81f]
+2024.09.03 09:21:38 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.03 09:22:10 INFO  running 'C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\gradlew.bat --stacktrace --console=plain --init-script C:\Users\PC\AppData\Local\Temp\metals186247843579062323\init-script.gradle bloopInstall'
+2024.09.03 09:22:13 INFO  Starting a Gradle Daemon, 2 incompatible and 3 stopped Daemons could not be reused, use --status for details
+2024.09.03 09:22:18 INFO  no build target found for C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\app\src\main\scala\taller\App.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 09:22:26 INFO  > Task :configureBloopInstall
+2024.09.03 09:22:26 INFO  > Task :bloopInstall
+2024.09.03 09:22:26 INFO  > Task :app:configureBloopInstall
+2024.09.03 09:22:28 INFO  > Task :app:bloopInstall
+2024.09.03 09:22:28 INFO  
+2024.09.03 09:22:28 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+2024.09.03 09:22:28 INFO  
+2024.09.03 09:22:28 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2024.09.03 09:22:28 INFO  
+2024.09.03 09:22:28 INFO  For more on this, please refer to https://docs.gradle.org/8.3/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2024.09.03 09:22:28 INFO  
+2024.09.03 09:22:28 INFO  BUILD SUCCESSFUL in 17s
+2024.09.03 09:22:28 INFO  4 actionable tasks: 4 executed
+2024.09.03 09:22:28 INFO  time: ran 'gradle bloopInstall' in 17s
+2024.09.03 09:22:28 INFO  Attempting to connect to the build server...
+2024.09.03 09:22:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\bsp.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.03 09:22:40 INFO  time: Connected to build server in 12s
+2024.09.03 09:22:40 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.03 09:22:41 INFO  time: Imported build in 0.37s
+2024.09.03 09:22:41 INFO  running doctor check
+2024.09.03 09:22:41 INFO  java targets: app, app-test
+2024.09.03 09:22:46 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.03 09:23:01 INFO  time: indexed workspace in 19s
+2024.09.03 09:41:02 INFO  compiling app (4 scala sources)
+2024.09.03 09:41:10 INFO  compiling app-test (2 scala sources)
+2024.09.03 09:41:10 INFO  time: compiled app in 8.98s
+2024.09.03 09:41:13 INFO  time: compiled app-test in 2.59s
+2024.09.03 09:43:17 INFO  Shutting down server
+2024.09.03 09:43:17 INFO  shutting down Metals
+2024.09.03 09:43:17 INFO  Shut down connection with build server.
+2024.09.03 09:43:17 INFO  Exiting server
+2024.09.03 09:43:50 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\PC\Desktop\git\socrative\talleres-pfc-template' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6d6d651b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2d24826a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6d6d651b]
+2024.09.03 09:43:52 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+sep. 03, 2024 9:43:53 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+sep. 03, 2024 9:43:53 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+sep. 03, 2024 9:43:53 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2024.09.03 09:43:53 INFO  Attempting to connect to the build server...
+2024.09.03 09:43:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\bsp.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.03 09:43:53 INFO  time: Connected to build server in 0.7s
+2024.09.03 09:43:53 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.03 09:43:54 INFO  time: Imported build in 0.25s
+2024.09.03 09:43:55 INFO  running doctor check
+2024.09.03 09:43:55 INFO  java targets: app, app-test
+2024.09.03 09:44:02 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.03 09:44:04 INFO  time: indexed workspace in 9.68s
+sep. 03, 2024 9:44:39 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2024.09.03 09:45:43 INFO  compiling app (1 scala source)
+2024.09.03 09:45:45 INFO  time: compiled app in 2.38s
+sep. 03, 2024 9:45:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 214
+2024.09.03 09:54:11 INFO  Shutting down server
+2024.09.03 09:54:11 INFO  shutting down Metals
+2024.09.03 09:54:11 INFO  Shut down connection with build server.
+2024.09.03 09:54:11 INFO  Exiting server
+2024.09.06 11:34:17 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\PC\Desktop\git\socrative\talleres-pfc-template' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@d1e56f9]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@31a3b1b8]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@d1e56f9]
+2024.09.06 11:34:18 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.06 11:34:19 INFO  Attempting to connect to the build server...
+sep. 06, 2024 11:34:24 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+sep. 06, 2024 11:34:25 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2024.09.06 11:34:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\bsp.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.06 11:34:32 INFO  time: Connected to build server in 13s
+2024.09.06 11:34:32 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.06 11:34:33 INFO  time: Imported build in 0.33s
+2024.09.06 11:34:33 INFO  running doctor check
+2024.09.06 11:34:33 INFO  java targets: app, app-test
+2024.09.06 11:34:41 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.06 11:34:45 INFO  time: indexed workspace in 12s
+2024.09.06 11:34:47 INFO  compiling app-test (2 scala sources)
+sep. 06, 2024 11:34:52 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2024.09.06 11:34:57 INFO  time: compiled app-test in 10s
+sep. 06, 2024 11:45:55 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 159
+sep. 06, 2024 11:46:44 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 324
+sep. 06, 2024 11:49:44 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 449
+2024.09.06 11:54:10 INFO  compiling app (2 scala sources)
+2024.09.06 11:54:13 INFO  time: compiled app in 2.14s
+2024.09.06 11:55:22 INFO  compiling app (1 scala source)
+2024.09.06 11:55:24 INFO  time: compiled app in 1.59s
+sep. 06, 2024 11:58:11 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 888
+sep. 06, 2024 11:58:30 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 932
+2024.09.06 11:58:59 INFO  compiling app (1 scala source)
+2024.09.06 11:58:59 INFO  time: compiled app in 0.98s
+2024.09.06 11:58:59 INFO  compiling app (1 scala source)
+2024.09.06 11:59:00 INFO  time: compiled app in 0.16s
+sep. 06, 2024 12:01:09 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1125
+sep. 06, 2024 12:01:25 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1161
+sep. 06, 2024 12:01:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1171
+sep. 06, 2024 12:03:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1405
+2024.09.06 12:03:26 INFO  compiling app (2 scala sources)
+2024.09.06 12:03:26 INFO  time: compiled app in 0.27s
+2024.09.06 12:03:26 INFO  compiling app (2 scala sources)
+2024.09.06 12:03:26 INFO  time: compiled app in 0.3s
+2024.09.06 12:03:44 INFO  compiling app (2 scala sources)
+2024.09.06 12:03:45 INFO  time: compiled app in 1.37s
+2024.09.06 12:17:15 INFO  compiling app (1 scala source)
+2024.09.06 12:17:16 INFO  time: compiled app in 1.23s
+sep. 06, 2024 12:17:37 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1460
+2024.09.06 12:25:49 INFO  compiling app-test (1 scala source)
+2024.09.06 12:25:49 INFO  time: compiled app-test in 0.45s
+sep. 06, 2024 12:29:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1902
+2024.09.06 12:30:40 WARN  Using indexes to guess the definition of buscarElemento
+2024.09.06 12:30:44 WARN  Using indexes to guess the definition of buscarElemento
+2024.09.06 12:30:48 WARN  Using indexes to guess the definition of buscarElemento
+2024.09.06 12:30:55 WARN  Using indexes to guess the definition of buscarElemento
+2024.09.06 12:30:59 INFO  compiling app-test (1 scala source)
+2024.09.06 12:30:59 INFO  time: compiled app-test in 0.64s
+sep. 06, 2024 12:31:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2202
+sep. 06, 2024 12:31:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2287
+2024.09.06 12:31:45 INFO  compiling app-test (1 scala source)
+2024.09.06 12:31:45 INFO  time: compiled app-test in 0.18s
+2024.09.06 12:32:14 INFO  compiling app-test (1 scala source)
+2024.09.06 12:32:14 INFO  time: compiled app-test in 0.18s
+2024.09.06 12:34:48 INFO  compiling app (1 scala source)
+2024.09.06 12:34:49 INFO  time: compiled app in 1.06s
+2024.09.06 12:34:49 INFO  compiling app (1 scala source)
+2024.09.06 12:34:49 INFO  time: compiled app in 79ms
+2024.09.06 12:34:51 INFO  compiling app (1 scala source)
+2024.09.06 12:34:51 INFO  time: compiled app in 0.75s
+2024.09.06 12:34:51 INFO  compiling app (1 scala source)
+2024.09.06 12:34:51 INFO  time: compiled app in 71ms
+sep. 06, 2024 12:35:02 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2665
+2024.09.06 12:35:02 INFO  compiling app (1 scala source)
+2024.09.06 12:35:02 INFO  time: compiled app in 0.72s
+2024.09.06 12:35:02 INFO  compiling app (1 scala source)
+2024.09.06 12:35:02 INFO  time: compiled app in 79ms
+2024.09.06 12:35:08 INFO  compiling app (1 scala source)
+2024.09.06 12:35:08 INFO  time: compiled app in 0.69s
+2024.09.06 12:35:08 INFO  compiling app (1 scala source)
+2024.09.06 12:35:08 INFO  time: compiled app in 69ms
+2024.09.06 12:35:10 INFO  compiling app (1 scala source)
+2024.09.06 12:35:10 INFO  time: compiled app in 0.73s
+2024.09.06 12:35:10 INFO  compiling app (1 scala source)
+2024.09.06 12:35:10 INFO  time: compiled app in 57ms
+2024.09.06 12:35:17 INFO  compiling app (1 scala source)
+2024.09.06 12:35:17 INFO  time: compiled app in 0.84s
+2024.09.06 12:35:17 INFO  compiling app (1 scala source)
+2024.09.06 12:35:17 INFO  time: compiled app in 55ms
+sep. 06, 2024 12:35:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2707
+2024.09.06 12:35:27 INFO  compiling app (1 scala source)
+2024.09.06 12:35:27 INFO  time: compiled app in 0.72s
+2024.09.06 12:35:27 INFO  compiling app (1 scala source)
+2024.09.06 12:35:27 INFO  time: compiled app in 63ms
+sep. 06, 2024 12:35:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2724
+2024.09.06 12:35:54 INFO  compiling app (1 scala source)
+2024.09.06 12:35:54 INFO  time: compiled app in 0.85s
+2024.09.06 12:36:03 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:03 INFO  time: compiled app-test in 0.1s
+2024.09.06 12:36:10 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:10 INFO  time: compiled app-test in 0.16s
+2024.09.06 12:36:12 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:12 INFO  time: compiled app-test in 0.15s
+2024.09.06 12:36:19 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:19 INFO  time: compiled app-test in 0.16s
+2024.09.06 12:36:23 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:23 INFO  time: compiled app-test in 0.17s
+2024.09.06 12:36:24 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:24 INFO  time: compiled app-test in 0.13s
+2024.09.06 12:36:49 INFO  compiling app-test (1 scala source)
+2024.09.06 12:36:49 INFO  time: compiled app-test in 0.21s
+sep. 06, 2024 12:37:03 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2917
+2024.09.06 12:37:07 INFO  compiling app-test (1 scala source)
+2024.09.06 12:37:07 INFO  time: compiled app-test in 0.19s
+2024.09.06 12:37:13 INFO  compiling app-test (1 scala source)
+2024.09.06 12:37:13 INFO  time: compiled app-test in 0.2s
+2024.09.06 12:37:17 INFO  compiling app-test (1 scala source)
+2024.09.06 12:37:17 INFO  time: compiled app-test in 0.22s
+2024.09.06 12:37:57 INFO  compiling app-test (1 scala source)
+2024.09.06 12:37:57 INFO  time: compiled app-test in 0.17s
+2024.09.06 12:38:30 INFO  compiling app-test (1 scala source)
+2024.09.06 12:38:30 INFO  time: compiled app-test in 0.16s
+2024.09.06 12:38:40 INFO  compiling app-test (1 scala source)
+2024.09.06 12:38:40 INFO  time: compiled app-test in 0.15s
+sep. 06, 2024 12:39:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3131
+2024.09.06 12:39:36 INFO  compiling app-test (1 scala source)
+2024.09.06 12:39:36 INFO  time: compiled app-test in 0.18s
+2024.09.06 12:42:56 INFO  compiling app-test (1 scala source)
+2024.09.06 12:42:56 INFO  time: compiled app-test in 0.19s
+2024.09.06 12:43:44 INFO  compiling app-test (1 scala source)
+2024.09.06 12:43:45 INFO  time: compiled app-test in 1.01s
+2024.09.06 12:43:59 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-server.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.09.06 12:43:59 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-client.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.09.06 12:43:59 INFO  Starting debug proxy for [taller.SumaTest(Sumatoria con incremento de 1 y operación de suma)]
+2024.09.06 12:43:59 INFO  Initialized Scala 3 decoder in 5 milliseconds
+2024.09.06 12:44:02 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60190 .
+2024.09.06 12:44:02 INFO  Attaching to debuggee VM succeeded.
+2024.09.06 12:44:04 INFO  Canceling debug proxy for [taller.SumaTest(Sumatoria con incremento de 1 y operación de suma)]
+2024.09.06 12:44:04 INFO  Closing debug server tcp://0.0.0.0:60184
+2024.09.06 12:44:21 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-server.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.09.06 12:44:21 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-client.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.09.06 12:44:21 INFO  Starting debug proxy for [taller.SumaTest(Sumatoria con incremento de 2 y operación de suma)]
+2024.09.06 12:44:21 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2024.09.06 12:44:21 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60201 .
+2024.09.06 12:44:21 INFO  Attaching to debuggee VM succeeded.
+2024.09.06 12:44:23 INFO  Canceling debug proxy for [taller.SumaTest(Sumatoria con incremento de 2 y operación de suma)]
+2024.09.06 12:44:23 INFO  Closing debug server tcp://0.0.0.0:60197
+2024.09.06 12:45:10 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-server.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.09.06 12:45:10 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-client.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.09.06 12:45:10 INFO  Starting debug proxy for [taller.SumaTest(Sumatoria con incremento de 1 y operación de multiplicación)]
+2024.09.06 12:45:10 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2024.09.06 12:45:10 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60224 .
+2024.09.06 12:45:10 INFO  Attaching to debuggee VM succeeded.
+2024.09.06 12:45:11 INFO  Canceling debug proxy for [taller.SumaTest(Sumatoria con incremento de 1 y operación de multiplicación)]
+2024.09.06 12:45:11 INFO  Closing debug server tcp://0.0.0.0:60220
+2024.09.06 12:45:16 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-server.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.09.06 12:45:16 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\dap-client.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.09.06 12:45:16 INFO  Starting debug proxy for [taller.SumaTest(Sumatoria con incremento de 2 y operación de multiplicación)]
+2024.09.06 12:45:16 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2024.09.06 12:45:16 INFO  Trying to attach to remote debuggee VM 127.0.0.1:60236 .
+2024.09.06 12:45:16 INFO  Attaching to debuggee VM succeeded.
+2024.09.06 12:45:18 INFO  Canceling debug proxy for [taller.SumaTest(Sumatoria con incremento de 2 y operación de multiplicación)]
+2024.09.06 12:45:18 INFO  Closing debug server tcp://0.0.0.0:60232
+2024.09.06 12:45:34 INFO  compiling app-test (1 scala source)
+2024.09.06 12:45:34 INFO  time: compiled app-test in 0.25s
+sep. 06, 2024 12:45:55 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3426
+2024.09.06 12:46:20 INFO  Shutting down server
+2024.09.06 12:46:20 INFO  shutting down Metals
+2024.09.06 12:46:20 INFO  Shut down connection with build server.
+2024.09.06 12:46:20 INFO  Exiting server
+2024.09.06 13:13:29 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\PC\Desktop\git\socrative\talleres-pfc-template' for client Visual Studio Code 1.93.0.
+2024.09.06 13:13:29 INFO  time: initialize in 0.17s
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6d6d651b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2d24826a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6d6d651b]
+2024.09.06 13:13:31 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+sep. 06, 2024 1:13:33 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+sep. 06, 2024 1:13:33 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+sep. 06, 2024 1:13:33 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2024.09.06 13:13:33 INFO  Attempting to connect to the build server...
+2024.09.06 13:13:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\bsp.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.06 13:13:33 INFO  time: Connected to build server in 0.66s
+2024.09.06 13:13:33 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.06 13:13:34 INFO  time: Imported build in 0.22s
+2024.09.06 13:13:34 INFO  running doctor check
+2024.09.06 13:13:34 INFO  java targets: app, app-test
+2024.09.06 13:13:40 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.06 13:13:42 INFO  time: indexed workspace in 7.64s
+2024.09.06 13:14:21 INFO  Shutting down server
+2024.09.06 13:14:21 INFO  shutting down Metals
+2024.09.06 13:14:21 INFO  Shut down connection with build server.
+2024.09.06 13:14:21 INFO  Exiting server
+2024.09.06 13:22:43 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\PC\Desktop\git\socrative\talleres-pfc-template' for client Visual Studio Code 1.93.0.
+2024.09.06 13:22:43 INFO  time: initialize in 0.16s
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@70853cf2]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@404012eb]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@70853cf2]
+2024.09.06 13:22:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+sep. 06, 2024 1:22:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+sep. 06, 2024 1:22:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+sep. 06, 2024 1:22:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2024.09.06 13:22:46 INFO  Attempting to connect to the build server...
+2024.09.06 13:22:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\git\socrative\talleres-pfc-template\.metals\bsp.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.06 13:22:46 INFO  time: Connected to build server in 0.68s
+2024.09.06 13:22:46 INFO  Connected to Build server: Bloop v1.6.0
+2024.09.06 13:22:47 INFO  time: Imported build in 0.22s
+2024.09.06 13:22:47 INFO  running doctor check
+2024.09.06 13:22:47 INFO  java targets: app, app-test
+2024.09.06 13:22:53 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.06 13:22:55 INFO  time: indexed workspace in 8.06s
+sep. 06, 2024 1:23:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+sep. 06, 2024 1:29:43 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2024.09.06 13:31:01 INFO  Shutting down server
+2024.09.06 13:31:01 INFO  shutting down Metals
+2024.09.06 13:31:01 INFO  Shut down connection with build server.
+2024.09.06 13:31:01 INFO  Exiting server

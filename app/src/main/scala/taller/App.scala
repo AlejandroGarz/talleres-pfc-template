@@ -3,9 +3,14 @@
  */
 package taller
 
+import Suma.suma
+
 object App {
   def main(args: Array[String]): Unit = {
     println(greeting())
+
+    val rec = Suma.suma(10,5, _ + _)
+    print(rec)
   }
 
   def greeting(): String = "Hello, world!"
